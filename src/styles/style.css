@@ -1,3 +1,7 @@
 body {
-	background-color: teal;
+  display: flex;
+  justify-content: center;
+  background-color: tan;
+  font-size: 46px;
+  text-align: center;
 }
