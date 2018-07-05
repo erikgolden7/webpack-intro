@@ -1,8 +1,8 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import App from "./App"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-ReactDOM.render(<App />, document.getElementById("root"))
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // React and Node
 // npm i --save express react react-dom
@@ -18,3 +18,5 @@ ReactDOM.render(<App />, document.getElementById("root"))
 
 // Webpack loaders
 // npm i --save css-loader file-loader style-loader
+
+// npm i express react react-dom babel-core babel-loader env babel-preset-es2017 babel-preset-react webpack webpack-dev-server webpack-dev-middleware html-webpack-plugin clean-webpack-plugin uglifyjs-webpack-plugin css-loader file-loader style-loader
