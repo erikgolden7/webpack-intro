@@ -1,6 +1,6 @@
-import React, { Component } from "react"
-import "./styles/style.css"
-import img from "./assets/download.png"
+import React, { Component } from 'react';
+import './main.css';
+import img from './assets/download.png';
 
 class App extends Component {
   render() {
@@ -9,8 +9,8 @@ class App extends Component {
         <img src={img} />
         <div>Webpack!</div>
       </div>
-    )
+    );
   }
 }
 
-export default App
+export default App;

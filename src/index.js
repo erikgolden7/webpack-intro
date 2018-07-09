@@ -20,3 +20,6 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // npm i --save css-loader file-loader style-loader
 
 // npm i express react react-dom babel-core babel-loader env babel-preset-es2017 babel-preset-react webpack webpack-dev-server webpack-dev-middleware html-webpack-plugin clean-webpack-plugin uglifyjs-webpack-plugin css-loader file-loader style-loader
+
+// NEW DEPENDENCIES
+// npm i webpack webpack-cli babel-core babel-loader babel-preset-env react react-dom babel-preset-react html-webpack-plugin html-loader mini-css-extract-plugin css-loader --save-dev
