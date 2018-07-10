@@ -6,6 +6,8 @@
 - Demonstrate setting up React boiler plate (App.js, index.js, etc)
 - Add and talk about .gitignore, .babelrc, and package.json files.
 - Create and build the webpack.config.js file. Explain what each piece is doing.
+- If there is extra time, create a basic server and introduce webpack-dev-middleware.
+- Create scripts in the package.json and demonstrate building and starting webpack.
 
 ### ==================== DEPENDENCIES ====================
 
