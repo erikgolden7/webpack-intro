@@ -1,5 +1,9 @@
 # WEBPACK 4 DEMO
 
+Author: Erik Golden
+
+- Slides available for download as .key file.
+
 ### ==================== DEMO ====================
 
 - Create a new project from scratch using mkdir, touch, and npm init.
